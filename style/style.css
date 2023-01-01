@@ -5,7 +5,15 @@ a{
     width: 150px;
     height: 150px;
 }
-
+.striker{
+    display: inline-block;
+    object-fit: cover;
+   
+    
+}
+img{
+    width: 270px;
+}
 
 
 
